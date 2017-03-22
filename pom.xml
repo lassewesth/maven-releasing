@@ -4,7 +4,7 @@
 
     <groupId>lassewesth</groupId>
     <artifactId>maven-releasing</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <packaging>pom</packaging>
 
@@ -31,7 +31,7 @@
 
     <scm>
         <developerConnection>scm:git:ssh://git@github.com/lassewesth/maven-releasing.git</developerConnection>
-      <tag>maven-releasing-1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <distributionManagement>
